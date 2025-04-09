@@ -2,4 +2,4 @@
 
 * Dr. Doom
 * Red Skull
-* Green Goblin
+* Capitan América
